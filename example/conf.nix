@@ -2,7 +2,7 @@
 with lib;
 {
   # URL of the site, must be set to the url of the domain the site will be deployed
-  siteUrl = "https://styx-static.github.io/styx-theme-orbit";
+  siteUrl = "https://divnix.github.io/styx-theme-orbit";
 
   # Theme settings
   theme = {
